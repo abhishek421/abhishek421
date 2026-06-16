@@ -4,7 +4,7 @@ Engineer by profession, curious by default.
 
 I'm a product builder — I learned to code because I wanted to make things, not because I loved code. Turns out I was decent at it. Then AI happened and it felt like cheating in the best way. Build fast, break fast, ship. I was always a builder; now I just have better tools.
 
-- 🛠️ Currently building **HiringDuck** and an AI co-pilot called **Ally**
+- 🛠️ Currently building scalable AI systems for various product companies and businesses.
 - 🤖 I build with AI, around AI, and sometimes I let AI impersonate me (long story)
 - 📍 Jaipur, India — open to freelance & collabs
 - 💬 Ask me about agents, design systems, or why I have one obsession instead of hobbies: making things
